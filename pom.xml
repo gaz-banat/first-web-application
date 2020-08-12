@@ -45,5 +45,6 @@
                                 </plugin>
                         </plugins>
                 </pluginManagement>
+                <finalName>root</finalName>
         </build>
 </project>
